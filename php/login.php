@@ -1,9 +1,9 @@
 <!-- Insert Contacts To Database -->
 <?php
-    $servername = "localhost";
-    $username = "id10964586_root";
-    $password = "password";
-    $dbname = "id10964586_amc_db";
+   $servername = "localhost";
+   $username = "id18953190_root";
+   $password = "1L/{e4t*&4uMlxO3";
+   $dbname = "id18953190_amc_db";
     
     $conn = mysqli_connect($servername,$username,$password,$dbname);
     if (!$conn) {
