@@ -28,10 +28,10 @@
         <form action="php/login.php" method="POST" onSubmit = "return validateLogin();">
           <div class="login">
             <div class="input_field">
-              <input type="text" placeholder="Username (admin)" class="input" name="username" id="userID">
+              <input type="text" placeholder="Username = (admin)" class="input" name="username" id="userID">
             </div>
             <div class="input_field">
-              <input type="password" placeholder="Password (admin)" class="input" name="password" id="passID">
+              <input type="password" placeholder="Password = (admin)" class="input" name="password" id="passID">
             </div>
             <div class="btn">
               <input type="submit" value="Login" class="btn-login">
